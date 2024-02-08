@@ -1,3 +1,4 @@
+
 ![image](https://github.com/seyit05/self-balancing-fuzzypid-pid/assets/94804429/da3d6e24-e5a7-44dc-a3d0-2f731d368ace)
 ![image](https://github.com/seyit05/self-balancing-fuzzypid-pid/assets/94804429/6363577d-28c3-41e3-bbdb-dbeced2a55f6)
 ![image](https://github.com/seyit05/self-balancing-fuzzypid-pid/assets/94804429/afb1fa57-8d27-475d-97ce-919b3c30a002)
